@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(216, 245, 243);
+    height: 100%;
+}
+
+header {
+    height: 3em;
+}
+.container{
+    background-color: rgb(216, 245, 243);
+    height: auto;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 45vw;
+    object-fit: cover;
+}
+
+<div class="col-sm-6 col-md-6 col-lg-4">
+
+p {
+}
+body{
+    clear:both;
+}
+.wrapper{
+    clear: both;
+}
+
+.navbar-expand-lg navbar-light bg-light {
+    background-color: rgb(216, 245, 243);
+}
+.navbar-brand {
+    font-size: larger;
+}  
+
+.bg-light {
+    background-color: cadetblue;
+}
+.container {
+    background-color: rgb(160, 205, 212);
+}
+.container img {
+    padding: 10px ;
+    height: 200px ;
+    width: 200px ;
+    float: left;
+
+}
+
+.footer {
+    background-color: rgb(216, 245, 243);
+    flex-shrink: none;
+    padding-bottom: 30px;
+    clear: both;
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
